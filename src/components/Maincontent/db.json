@@ -1,0 +1,50 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "project": "Site Web Entreprise",
+        "client": "Acme Corp",
+        "members": ["Alice ", "Bob "],
+        "budget": 5000,
+        "completed": true,
+        "deadline": "2025-02-15"
+      },
+      {
+        "id": 2,
+        "project": "Application Mobile",
+        "client": "Softreact",
+        "members": ["James ", "Charles ", "Raven ", "Jim "],
+        "budget": 120000,
+        "completed": false,
+        "deadline": "2025-03-01"
+      },
+      {
+        "id": 3,
+        "project": "Facebook Campaign",
+        "client": "Tech motor",
+        "members": ["Donald ", "Gloria ", "James "],
+        "budget": 50000,
+        "completed": true,
+        "deadline": "2025-01-25"
+      },
+      {
+        "id": 4,
+        "project": "Google Campaign",
+        "client": "Brand",
+        "members": ["Jean ", "Stella ","Claire ","Rose ","Memphis "],
+        "budget": 100000,
+        "completed": false,
+        "deadline": "2025-02-08"
+      },
+      {
+        "id": 5,
+        "project": "Donation",
+        "client": "OMS",
+        "members": ["Julie ", "Alex ","Rose "],
+        "budget": 10000,
+        "completed": false,
+        "deadline": "2025-05-11"
+      }
+    ]
+  }
+  

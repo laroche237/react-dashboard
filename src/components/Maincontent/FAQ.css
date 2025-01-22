@@ -1,0 +1,20 @@
+.faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+    padding: 0;
+  }
+  
+  .faq-answer.open {
+    max-height: 200px; /* Ajustez en fonction de la longueur de vos réponses */
+    padding: 10px 0;
+  }
+  
+.btn-link{
+    border: none;
+  font-size: 1.05rem; /* Taille des questions */
+  font-weight: bold;
+  text-decoration: none; /* Retirer l'apparence de lien */
+  color: #f5a; /* Couleur personnalisée */
+  cursor: pointer;
+}

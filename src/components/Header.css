@@ -1,0 +1,44 @@
+.top_nav {
+    display: block;
+    margin-left: 250px;
+    background-color: darkgrey;
+  }
+.nav_menu{
+    position: static;
+    top:0;
+  }
+
+.left{
+    float: left;
+    width: 25%;
+    margin-left: 25px;
+}
+
+.navright{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.right{
+    float: right;
+   width: 75%;
+}
+
+.user_menu{
+    width: fit-content;
+    margin-right: 30px;
+    float: right;
+}
+
+form .xline{
+    border-color: blueviolet;
+    color: blueviolet;
+    background-color: white;
+    font-weight:500;
+}
+
+.right li .icon{
+    color: blueviolet;
+}

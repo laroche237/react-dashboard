@@ -1,0 +1,30 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+
+
+.main-app{ 
+       
+      
+}
+
+.main-content{
+    display: block;
+    margin-left: 270px;
+    margin-right: 25px;
+
+ 
+}
+
+.x_title{
+float: right;
+height: 7em;
+margin-top: 5px;
+padding-top: 3px;
+}
+
+.row{
+    display: flex;
+}
+
+.col-sm-3{
+    flex:  1 1 25%;
+}
