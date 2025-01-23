@@ -5,24 +5,24 @@ import "./FAQ.css"; // Ajoutons du style pour les animations
 const Faq = () => {
   const faqData = [
     {
-      question: "Quel est le budget de la création d'une application mobile ?",
-      answer: "React est une bibliothèque JavaScript pour créer des interfaces utilisateur.",
+      question: "What are the cost for a project ?",
+      answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut a.",
     },
     {
-      question: "Comment installer React ?",
-      answer: "Vous pouvez installer React en utilisant npm ou yarn via la commande `npm install react`.",
+      question: "I want to start my campaign on social media, how start?",
+      answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et ",
     },
     {
-      question: "Qu'est-ce qu'un composant React ?",
-      answer: "Un composant React est une partie réutilisable d'une interface utilisateur.",
+      question: "What leads us ?",
+      answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et .",
     },
     {
-      question: "Qu'est-ce que le state dans React ?",
-      answer: "Le state est un objet local à un composant qui stocke des données dynamiques.",
+      question: "How does the application process work ?",
+      answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et .",
     },
     {
-      question: "Comment utiliser les props dans React ?",
-      answer: "Les props sont utilisées pour passer des données d'un composant parent à un composant enfant.",
+      question: "How to create an account?",
+      answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et ",
     },
   ];
 
