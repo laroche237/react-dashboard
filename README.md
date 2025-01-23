@@ -5,11 +5,11 @@ React Dashboard is a modern and interactive project designed to provide an intui
 
 ## Screenshots
 
-![l'application dashboard](src\img\dashboard-1.PNG)  
-![dashboard 1](src\img\dashboard-2.PNG) 
-![dashboard 2](src\img\dashboard-3.PNG) 
-![dashboard 3](src\img\dashboard-4.PNG) 
-![dashboard 4](src\img\dashboard-5.PNG) 
+![l'application dashboard](src/img/dashboard-1.PNG)  
+![dashboard 1](src/img/dashboard-2.PNG) 
+![dashboard 2](src/img/dashboard-3.PNG) 
+![dashboard 3](src/img/dashboard-4.PNG) 
+![dashboard 4](src/img/dashboard-5.PNG) 
 
 ## Features
 - **Sales Map**: Visualize sales data geographically.
